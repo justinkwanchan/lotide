@@ -7,7 +7,7 @@ const findKeyByValue = (inputObj, inputKey) => {
 };
 
 const bestTVShowsByGenre = {
-  sci_fi: "The Expanse",
+  sciFi: "The Expanse",
   comedy: "Brooklyn Nine-Nine",
   drama:  "The Wire"
 };
